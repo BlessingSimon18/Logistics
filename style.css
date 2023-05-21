@@ -148,7 +148,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url(./assets/highwaybus.jpg) no-repeat;
+    background: url(./assets\ copy/highwaybus.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-image: radial-gradient(circle at 50% 50%,rgba(0,0,0,.6),rgba(0,0,0,.6));
@@ -177,7 +177,7 @@ header .fa-bars{
 /* image */
 .image{
     min-height: 100vh;
-    background: url(./assets/IMG-2231.jpg) no-repeat;
+    background: url(./assets\ copy/IMG-2231) no-repeat;
     background-size: cover;
     background-position: center;
     background-image: radial-gradient(circle at 50% 50%,rgba(0,0,0,.1),rgba(0,0,0,.1));
